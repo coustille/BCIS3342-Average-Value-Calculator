@@ -9,3 +9,6 @@ This program prompts the user in the console window to enter numbers between 0.5
 ### Purpose
 
 This program was written for BCIS 3342  Advanced Java Programming at Tarleton State University
+
+### Source File Location
+/src/main/java
